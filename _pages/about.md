@@ -1,5 +1,11 @@
-Biography
-======
+---
+permalink: /
+title: "Biography"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Zhixuan Dong received the B.S. degree in microelectronics from Fudan University, Shanghai, China in 2022, where she is currently pursuing the Ph.D. degree with State Key Laboratory of Integrated Chips and Systems, Microelectronics Department. Her current research interests include thermal analysis, and multiphysics modeling and simulation.
 
